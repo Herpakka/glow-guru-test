@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "482808123726",
+    "project_id": "glow-guru",
+    "storage_bucket": "glow-guru.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482808123726:android:ac01f3014d7d139996ce1f",
+        "android_client_info": {
+          "package_name": "com.example.glow_guru"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIsuUiMy-3RkL8ZJ9sz1UYJhSfGBbdUyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482808123726:android:90d3df9fdff6bb6396ce1f",
+        "android_client_info": {
+          "package_name": "com.example.test4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIsuUiMy-3RkL8ZJ9sz1UYJhSfGBbdUyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
